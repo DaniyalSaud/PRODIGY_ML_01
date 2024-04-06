@@ -1,7 +1,7 @@
 # House Price Prediction with Linear Regression
 This repository contains code implementing a linear regression model to predict house prices based on their lot area, number of bathrooms, and number of bedrooms. This project was created as part of an internship task.
 
-Dataset
+<b><i>Dataset:<br></i></b>
 The dataset used for this project contains information about various houses including their lot area, number of bathrooms, number of bedrooms, and corresponding prices. It is stored in a CSV format and is named train.csv.
 
 Requirements
